@@ -1,7 +1,5 @@
 
 // ChronoBattleDlg.h : header file
-//Feli Lanciano 308229426
-//Bar Hochman 308484112
 
 #pragma once
 #include "Header.h"
